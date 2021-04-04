@@ -1,3 +1,5 @@
+Validated with 115%.
+
 This project consists of creating a program that opens a file and reads a line ending with a carriage return ('\n'). Recalling the function of the same file will read the following line.
 
 A (-1) is returned if an error occurred. A (0) is returned if the file is finished reading. And a (1) is returned if a line is read.
