@@ -4,6 +4,8 @@ A (-1) is returned if an error occurred. A (0) is returned if the file is finish
 
 This project aims at understanding memory allocation. This is to say, how to allocate memory whiles preventing leaks and learning when and how to free correctly.
 
+You'll find in the folder "Sujet", all further explanations regarding the project.
+
 Unitest Links :
 
 gnlTester - Tripouille : https://github.com/Tripouille/gnlTester
